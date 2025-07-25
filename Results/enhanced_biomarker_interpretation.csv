@@ -1,0 +1,11 @@
+Rank,Probe_ID,Gene_Symbol,Pathway,Importance,Clinical_Relevance,Therapeutic_Target,Clinical_Significance
+1,205225_at,ESR1,Hormone Signaling,0.03501256831458743,Estrogen receptor alpha - predicts hormone therapy response,"Tamoxifen, Aromatase inhibitors",HIGH - FDA approved biomarker for treatment selection
+2,232944_at,BCL2L1,Apoptosis Regulation,0.027315418363726314,BCL-XL anti-apoptotic protein - chemotherapy resistance,BCL-XL inhibitors (Navitoclax),MEDIUM - Drug resistance biomarker
+3,232855_at,BAX,Apoptosis Regulation,0.02685397601373921,BAX pro-apoptotic protein - chemotherapy sensitivity,BAX activation strategies,MEDIUM - Predictive of chemotherapy response
+4,205862_at,CASP3,Apoptosis Regulation,0.017870852316337706,Caspase-3 executioner of apoptosis - drug sensitivity,Apoptosis-inducing agents,MEDIUM - Biomarker of apoptotic capacity
+5,219414_at,CD274,Immune Response,0.017514074297214677,PD-L1 immune checkpoint - immunotherapy target,"Pembrolizumab, Nivolumab, Atezolizumab",HIGH - FDA approved companion diagnostic
+6,232948_at,BAK1,Apoptosis Regulation,0.01687475200867246,BAK1 pro-apoptotic protein - chemotherapy sensitivity,BAK1 activation,MEDIUM - Apoptosis pathway biomarker
+7,204508_s_at,PGR,Hormone Signaling,0.015790070036212935,Progesterone receptor - hormone therapy biomarker,Hormone therapy combinations,HIGH - Standard clinical biomarker
+8,203438_at,RB1,Cell Cycle Control,0.014602005506125195,Retinoblastoma protein - tumor suppressor,CDK4/6 inhibitors,HIGH - CDK4/6 inhibitor response predictor
+9,219197_s_at,ABCC1,Drug Resistance,0.014408880738212719,MRP1 multidrug resistance protein,MRP1 inhibitors,MEDIUM - Drug resistance biomarker
+10,213712_at,ABCB1,Drug Resistance,0.013548171378953412,P-glycoprotein MDR1 - multidrug resistance,P-gp inhibitors,HIGH - Major drug resistance mechanism

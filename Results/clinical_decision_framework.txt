@@ -1,0 +1,106 @@
+
+CLINICAL AI DECISION SUPPORT FRAMEWORK
+======================================
+
+OBJECTIVE:
+Provide evidence-based molecular subtyping and risk stratification for breast cancer patients
+using AI-driven gene expression analysis to guide personalized treatment decisions.
+
+MODEL PERFORMANCE:
+• Best Model: SVM
+• Accuracy: 100.0%
+• Clinical Validation Status: Research Phase
+• Recommended Use: Adjunct to standard pathological assessment
+
+KEY BIOMARKER PANEL:
+
+ 1. 205225_at       - Other/Unknown
+ 2. 232944_at       - Other/Unknown
+ 3. 232855_at       - Other/Unknown
+ 4. 205862_at       - Other/Unknown
+ 5. 219414_at       - Other/Unknown
+ 6. 232948_at       - Other/Unknown
+ 7. 204508_s_at     - Other/Unknown
+ 8. 203438_at       - Other/Unknown
+ 9. 219197_s_at     - Other/Unknown
+10. 213712_at       - Other/Unknown
+
+CLINICAL APPLICATIONS:
+
+1. MOLECULAR SUBTYPING:
+   • Luminal A/B classification for hormone receptor positive tumors
+   • HER2+ identification for targeted therapy selection
+   • Triple-negative breast cancer (TNBC) characterization
+   • Intrinsic subtype determination (PAM50-like classification)
+
+2. TREATMENT SELECTION SUPPORT:
+   • Hormone therapy candidates (ESR1, PGR expression)
+   • Anti-HER2 therapy eligibility (ERBB2 status)
+   • Chemotherapy benefit prediction (proliferation markers)
+   • Immunotherapy potential (immune signature analysis)
+
+3. PROGNOSIS AND RISK STRATIFICATION:
+   • Recurrence risk assessment
+   • Metastatic potential evaluation
+   • Overall survival prediction
+   • Treatment resistance likelihood
+
+4. PRECISION ONCOLOGY APPLICATIONS:
+   • Companion diagnostic development
+   • Clinical trial stratification
+   • Biomarker-guided therapy selection
+   • Treatment monitoring and response prediction
+
+CLINICAL WORKFLOW INTEGRATION:
+
+Phase 1 - Diagnosis:
+   • Tissue sample processing for RNA extraction
+   • Gene expression profiling using validated assay
+   • AI model prediction generation
+
+Phase 2 - Interpretation:
+   • Molecular subtype classification
+   • Risk score calculation
+   • Biomarker profile analysis
+
+Phase 3 - Treatment Planning:
+   • Integration with clinical parameters
+   • Multidisciplinary team review
+   • Personalized treatment recommendation
+
+Phase 4 - Monitoring:
+   • Response assessment
+   • Resistance monitoring
+   • Treatment modification guidance
+
+LIMITATIONS AND CONSIDERATIONS:
+
+• Dataset Specificity: Model trained on specific population cohort
+• Validation Status: Requires prospective clinical validation
+• Integration Requirements: Must be combined with standard clinical assessment
+• Regulatory Status: Research use only, not for diagnostic decisions
+• Technical Requirements: Specialized laboratory infrastructure needed
+
+RECOMMENDED NEXT STEPS:
+
+1. VALIDATION PHASE:
+   • Independent cohort validation
+   • Multi-institutional study design
+   • Prospective clinical trial integration
+
+2. REGULATORY PREPARATION:
+   • FDA/EMA regulatory pathway planning
+   • Clinical utility studies
+   • Health economic assessments
+
+3. CLINICAL IMPLEMENTATION:
+   • Laboratory certification processes
+   • Clinical guideline integration
+   • Physician training programs
+
+QUALITY ASSURANCE:
+
+• Model Performance Monitoring: Continuous accuracy assessment
+• Bias Detection: Regular fairness and equity evaluations
+• Technical Validation: Ongoing analytical performance verification
+• Clinical Correlation: Regular clinical outcome correlation studies
