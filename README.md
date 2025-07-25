@@ -264,8 +264,6 @@ n_top_biomarkers = 25  # Number of top biomarkers to analyze
 pathway_threshold = 0.01  # Minimum importance threshold
 ```
 
- ```
-
 ## 📚 References
 
 ### Dataset
